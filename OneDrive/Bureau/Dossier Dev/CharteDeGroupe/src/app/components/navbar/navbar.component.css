@@ -1,0 +1,18 @@
+.no-underline {
+    text-decoration: none;
+}
+
+.accordion-button::after {
+    content: none !important;
+  }
+
+.accordion-item {
+border-radius: 20px;
+}
+
+.code {
+    border-radius: 20px;
+}
+
+
+
